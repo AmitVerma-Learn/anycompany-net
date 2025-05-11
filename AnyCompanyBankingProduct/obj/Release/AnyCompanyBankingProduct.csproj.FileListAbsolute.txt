@@ -1,0 +1,1 @@
+C:\anycompany-banking-product\AnyCompanyBankingProduct\obj\Release\AnyCompanyBankingProduct.csprojResolveAssemblyReference.cache
